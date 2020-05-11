@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="svsoff">No SVS</string>
+    <string name="svson">SVS</string>
+    <string name="gstoff">No GST</string>
+    <string name="gston">GST</string>
+    <string name="each_pays">Each Pays: $</string>
+
+
+</resources>
